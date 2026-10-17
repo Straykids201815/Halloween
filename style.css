@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+header{
+    background-color: white;
+    display: flex;
+    padding: 3%;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: antiquewhite;
+    width: 100%;
+}
+nav{
+    width: 80%;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: white
+}
+.logo{
+    width: 150px;
+}
+main{
+    padding 2%;
+}
+.Halloween{
+    display: flex;
+
+}
+.Halloween{
+    width: ;
+}
+.Lamb{
+    
+}
